@@ -2,7 +2,7 @@
     "name": "bup/api",
     "description": "A short description of what your package does test",
     "type": "library",    
-    "keywords": ["api","api"],
+    "keywords": ["api","market"],
     "homepage": "https://github.com/b-up-ru/api",
     "license": "MIT",
     "version": "1.0.2",
