@@ -1,0 +1,17 @@
+{
+    "name": "bup",
+    "description": "A short description of what your package does test",
+    "type": "library",    
+    "keywords": ["test","testingg"],
+    "homepage": "https://github.com/b-up-ru/test",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Monte",
+            "email": "info@biznesup.com",
+            "homepage": "https://biznesup.com",
+            "role": "Developer"
+        }
+    ]   
+}
