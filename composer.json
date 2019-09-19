@@ -1,5 +1,5 @@
 {
-    "name": "bup",
+    "name": "bup/api",
     "description": "A short description of what your package does test",
     "type": "library",    
     "keywords": ["test","testingg"],
